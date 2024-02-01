@@ -1,0 +1,6 @@
+version: "1"
+services:
+  web:
+    build: .
+    image: flashcard-app
+    container_name: Flashcard-App
