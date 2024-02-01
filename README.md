@@ -10,8 +10,8 @@
     - Clone the repo and upstart the Docker Container with
 
     ```bash
-    docker build -t crest .
-    docker run --rm -ti crest
+    docker build -t flashcard .
+    docker run --rm -ti flashcard
     ```
 
  ## TO-DO
