@@ -1,0 +1,19 @@
+[
+    {
+        "prompt": "What is the capital of France?",
+        "options": ["1. Berlin", "2. London", "3. Paris", "4. Rome"],
+        "answer": "3"
+    },
+    {
+        "prompt": "Which planet is known as the Red Planet?",
+        "options": ["1. Venus", "2. Mars", "3. Jupiter", "4. Saturn"],
+        "answer": "2"
+    },
+    {
+        "prompt": "What is the capital of North Korea?",
+        "options": ["1. Pyongyang", "2. Kaesong", "3. Wonsan", "4. Hamhung"],
+        "answer": "1"
+    }
+
+]
+ 
