@@ -9,11 +9,9 @@
 ## Docker Build
     - Clone the repo and upstart the Docker Container with
 
-    ```bbash
-    
-    docker build -t Flashcard .
-    docker run --rm -ti Flashcard
-
+    ```bash
+    docker build -t crest .
+    docker run --rm -ti crest
     ```
 
  ## TO-DO
