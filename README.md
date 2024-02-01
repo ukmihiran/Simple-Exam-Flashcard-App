@@ -10,8 +10,8 @@
     - Clone the repo and upstart the Docker Container with
 
     ```bash
-    docker build -t flashcard .
-    docker run --rm -ti flashcard
+    docker build -t flashcard_app .
+    docker run --rm -ti flashcard_app
     ```
 
  ## TO-DO
